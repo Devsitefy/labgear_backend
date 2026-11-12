@@ -1,0 +1,14 @@
+.env
+.env-test
+.venv
+venv
+__pycache__
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.git
+.idea
+.vscode
+.DS_Store
+*.py[cod]
+*.log
